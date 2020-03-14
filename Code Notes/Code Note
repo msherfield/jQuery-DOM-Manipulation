@@ -1,0 +1,3 @@
+From main.css
+
+$(document).ready(function()){
